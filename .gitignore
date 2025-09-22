@@ -1,0 +1,56 @@
+# --------------------------
+# Rust (geral)
+# --------------------------
+/target/
+/**/target/
+
+# Ignorar arquivos de backup
+*.rs.bk
+
+# Ignorar builds temporários
+*.out
+*.exe
+*.log
+
+# Cargo lock:
+exercises/**/Cargo.lock
+
+# --------------------------
+# IDEs / Editores
+# --------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --------------------------
+# Exercism
+# --------------------------
+.exercism/
+exercism.json
+
+# --------------------------
+# Rustlings
+# --------------------------
+exercises/rustlings/.git/
+exercises/rustlings/.github/
+exercises/rustlings/Cargo.lock
+
+# --------------------------
+# Codecrafters
+# --------------------------
+codecrafters-staging/
+.docker/
+*.env
+
+# --------------------------
+# Rust-exercises
+# --------------------------
+exercises/rust-exercises/.git/
+exercises/rust-exercises/.github/
+
+# --------------------------
+# Sistema operacional
+# --------------------------
+.DS_Store
+Thumbs.db
