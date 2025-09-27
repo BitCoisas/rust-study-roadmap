@@ -10,7 +10,7 @@ Ferramentas usadas: [Rustlings](https://github.com/rust-lang/rustlings), [Exerci
 ### ✅ Semana 1 – Aquecimento
 - [x] Ler Rust Book Cap. 1–3 (variáveis, tipos, funções, controle de fluxo)  
 - [x] Rustlings: `variables`, `functions`, `if`, `primitive_types`  
-- [x] Exercism: Hello World, Leap Year  
+- [] Exercism: Hello World, Leap Year  
 - [x] **Mini-projeto:** CLI que imprime tabuada  
 
 ---
